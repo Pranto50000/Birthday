@@ -51,7 +51,7 @@ x = setInterval(function () {
       strings: ['HAPPY', 'BIRTHDAY', 'TO', config.name],
       charSize: 40,
       charSpacing: 40,
-      lineHeight: 40,
+      lineHeight: 70,
 
       cx: w / 2,
       cy: h / 2,
