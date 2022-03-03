@@ -32,7 +32,7 @@ x = setInterval(function () {
     distance = countDown - now;
 
   document.getElementById('day').innerText = Math.floor(distance / day);
-  document.getElementById('hour').innerText = Math.floor(
+  document.getElementById('hour').innerText = Math.floor( 
     (distance % day) / hour
   );
   document.getElementById('minute').innerText = Math.floor(
