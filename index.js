@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: '04, march, 2002',
-  name: 'Priya Afrin Prithy'
+  name: 'Priya Afrin'
 };
 
 function hideEverything() {
