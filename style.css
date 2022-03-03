@@ -18,8 +18,13 @@ canvas {
   left: 0;
 }
 body {
-  background: #ffffff;
-  overflow: hidden;
+/*   background: #ffffff;
+  overflow: hidden; */
+  
+  background-image: url(/priya.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .container {
   color: rgba(55, 59, 65, 0.8);
