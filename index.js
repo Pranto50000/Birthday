@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: '28, November, 2002',
-  name: 'Sharmin Asha'
+  birthdate: '04, march, 2002',
+  name: 'Priya Afrin Prithy'
 };
 
 function hideEverything() {
