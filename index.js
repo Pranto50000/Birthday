@@ -121,7 +121,7 @@ x = setInterval(function () {
   Letter.prototype.reset = function () {
     this.phase = 'firework';
     this.tick = 0;
-    this.spawned = false;
+    this.spawned = false; 
     this.spawningTime = (opts.fireworkSpawnTime * Math.random()) | 0;
     this.reachTime =
       (opts.fireworkBaseReachTime +
