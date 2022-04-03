@@ -77,11 +77,11 @@ li span {
   position: absolute;
   color: black;
   width: 100%;
-  content: "Gift By PRANTO";
+  content: "Proposed BY PRANTO";
   font-weight: 700;
   left: 0;
   bottom: 0;
-  font-size: 35px;
+  font-size: 30px;
   text-shadow: 3px 3px 2px  white;
   text-align: center;
   transform: rotate(-20deg);
